@@ -27,7 +27,7 @@ Kho lưu trữ này được thiết lập ở chế độ **Private (100% riên
 ## 2. Thông Tin Phiên Bản Hiện Tại (v2.5.1)
 
 - **Phiên bản (SemVer)**: `2.5.1`
-- **Mã băm SHA256**: `98EE657721540F40654D4093A1DD734E1C79A463692961D26FE0C52676E4E440`
+- **Mã băm SHA256**: `56D83BBCEDC543374EBD1F322B1788D13DCE52FE6AB8EE7703E96F19E17E39EF`
 - **Nhật ký thay đổi (Changelog)**:
   * Tự động kiểm tra và cập nhật phiên bản Hot-Swap.
   * Tương thích nền tảng bảo mật đa tầng Single-File & Obfuscar.
