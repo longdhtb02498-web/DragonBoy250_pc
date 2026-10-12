@@ -1,0 +1,7 @@
+# Repo 1 is exclusively for distribution artifacts
+*
+!.gitignore
+!README.md
+!dist/
+!dist/version.json
+!dist/patch.zip
