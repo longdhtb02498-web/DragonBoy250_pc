@@ -1,6 +1,6 @@
 {
   "version": "2.5.1",
   "download_url": "https://raw.githubusercontent.com/longdhtb02498-web/DragonBoy250_pc/main/dist/patch.zip",
-  "sha256": "995135070309C1D0AACCAC63B78F1B8F4897BC755B09387012583387B8DA394F",
-  "changelog": "- Tá»± Ä‘á»™ng kiá»ƒm tra vĂ  cáº­p nháº­t phiĂªn báº£n Hot-Swap\n- TÆ°Æ¡ng thĂ­ch ná»n táº£ng báº£o máº­t Ä‘a táº§ng Single-File & Obfuscar\n- Báº£o toĂ n 100% tĂ i khoáº£n vĂ  cáº¥u hĂ¬nh trong thÆ° má»¥c Data"
+  "sha256": "CD2650EC3683CD2D36AB70F8B29F8CE592CB1F09AD73A16538EA76AC2E214DBA",
+  "changelog": "- Tự động kiểm tra và cập nhật phiên bản Hot-Swap v2.5.1\n- Tối ưu đăng nhập khi server đông nghẽn, khắc phục triệt để lỗi tài khoản chưa tạo nhân vật\n- Nâng cấp Auto Train đón đầu quái (A* và TĐLT)\n- Sửa triệt để lỗi ô vuông đen mất hình ảnh, căn chỉnh logo và làm đẹp giao diện\n- Tách độc lập client game khỏi QLTK, thêm phím P bật/tắt kết nối QLTK"
 }
