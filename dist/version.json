@@ -1,6 +1,6 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "download_url": "https://raw.githubusercontent.com/longdhtb02498-web/DragonBoy250_pc/main/dist/patch.zip",
-  "sha256": "CD2650EC3683CD2D36AB70F8B29F8CE592CB1F09AD73A16538EA76AC2E214DBA",
-  "changelog": "- Tự động kiểm tra và cập nhật phiên bản Hot-Swap v2.5.1\n- Tối ưu đăng nhập khi server đông nghẽn, khắc phục triệt để lỗi tài khoản chưa tạo nhân vật\n- Nâng cấp Auto Train đón đầu quái (A* và TĐLT)\n- Sửa triệt để lỗi ô vuông đen mất hình ảnh, căn chỉnh logo và làm đẹp giao diện\n- Tách độc lập client game khỏi QLTK, thêm phím P bật/tắt kết nối QLTK"
+  "sha256": "5B4617A346854CC489B3ACB7DF3600D0261E37F3BA5E86CFCE6352B8AA655437",
+  "changelog": "- Khắc phục triệt để lỗi 2 tab tự động login trùng 1 tài khoản khi server mất kết nối hoặc quá tải\n- Cô lập dữ liệu đăng nhập và RMS độc lập theo từng tiến trình tab ID\n- Tối ưu nhận diện cửa sổ game theo Process ID (PID) tránh nhận nhầm tiêu đề giữa các tab"
 }
