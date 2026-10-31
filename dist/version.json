@@ -1,6 +1,6 @@
 {
-  "version": "2.5.2",
+  "version": "2.5.3",
   "download_url": "https://raw.githubusercontent.com/longdhtb02498-web/DragonBoy250_pc/main/dist/patch.zip",
-  "sha256": "5B4617A346854CC489B3ACB7DF3600D0261E37F3BA5E86CFCE6352B8AA655437",
-  "changelog": "- Khắc phục triệt để lỗi 2 tab tự động login trùng 1 tài khoản khi server mất kết nối hoặc quá tải\n- Cô lập dữ liệu đăng nhập và RMS độc lập theo từng tiến trình tab ID\n- Tối ưu nhận diện cửa sổ game theo Process ID (PID) tránh nhận nhầm tiêu đề giữa các tab"
+  "sha256": "9F9850BAB5D3A3CD25585E8C9D4F3AFCA7035DD61AD4CCF272A21AA0F5AD6A73",
+  "changelog": "- Tối ưu hệ TĐLT: Đánh từ xa không cần tele tới quái, giữ nguyên vị trí đứng 100%\n- Vô hiệu hóa nhặt đồ và MovePoint trong chế độ TĐLT, để bùa server tự hút vật phẩm\n- Cập nhật đồng bộ Socket QLTK: tự động cập nhật Offline/Online chính xác khi ấn P hoặc thoát game"
 }
