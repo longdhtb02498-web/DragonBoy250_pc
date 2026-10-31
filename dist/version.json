@@ -1,6 +1,6 @@
 {
   "version": "2.5.3",
   "download_url": "https://raw.githubusercontent.com/longdhtb02498-web/DragonBoy250_pc/main/dist/patch.zip",
-  "sha256": "9F9850BAB5D3A3CD25585E8C9D4F3AFCA7035DD61AD4CCF272A21AA0F5AD6A73",
+  "sha256": "2AE3ACCD9D80E872290DE789D470193D21333A023E5B6CF2ECB4358E02309941",
   "changelog": "- Tối ưu hệ TĐLT: Đánh từ xa không cần tele tới quái, giữ nguyên vị trí đứng 100%\n- Vô hiệu hóa nhặt đồ và MovePoint trong chế độ TĐLT, để bùa server tự hút vật phẩm\n- Cập nhật đồng bộ Socket QLTK: tự động cập nhật Offline/Online chính xác khi ấn P hoặc thoát game"
 }
